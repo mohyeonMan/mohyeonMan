@@ -1,9 +1,9 @@
-<h1 align="center">👋 Welcome! </h1>
+<h1>👋 Welcome! </h1>
 
-<p align="center">
+<p>
   대규모 데이터 최적화, 캐싱, 실시간 서비스에 관심이 많습니다.
 </p>
-<p align="center">
+<p>
   공간정보 데이터와 관련된 서비스를 개발/보수 하고 있습니다.
 </p>
 
