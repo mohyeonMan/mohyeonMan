@@ -32,7 +32,3 @@
 ### 📫 Contact
 - Email: qkrwlgns0510@gmail.com
 
----
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohyeonMan&show_icons=true&theme=tokyonight)
